@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar 18 00:49:54 2023
-
-@author: Shivam Lasiyal
-"""
-
 import subprocess
 
 hostname =input("enter the IP :") 
